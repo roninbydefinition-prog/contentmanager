@@ -4,9 +4,6 @@
 [,[object Object],](,[object Object],)](,[object Object],)
 [,[object Object],](,[object Object],)](,[object Object],)
 
-<!-- Demo / Hero image (replace with a screenshot of your app) -->
-![,[object Object],](,[object Object],)
-
 ,[object Object],
 Ronin AI Content Manager is an intelligent platform that helps creators plan, audit, and optimize content across platforms (YouTube, TikTok, Blogs, X/Twitter and more). Instead of guessing what will work, Ronin surfaces viral content opportunities, audits existing assets, and recommends actionable steps to increase reach and retention.
 
@@ -27,18 +24,6 @@ The core mission: identify high-leverage opportunities and give creators practic
 ,[object Object], AI / ML: Transformers (Hugging Face), OpenAI API (or Anthropic)
 ,[object Object], Workers: [Celery / RQ / Bull]
 ,[object Object], Deployment: [Vercel / Netlify / Render / Railway]
-
-,[object Object],
-Replace these placeholder images with real screenshots when you have them.
-
-,[object Object], Dashboard / Overview  
-  ![,[object Object],](,[object Object],)
-
-,[object Object], Trend Analysis Example  
-  ![,[object Object],](,[object Object],)
-
-,[object Object], Content Audit Example  
-  ![,[object Object],](,[object Object],)
 
 ,[object Object],
 Prerequisites
